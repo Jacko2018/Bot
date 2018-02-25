@@ -1,0 +1,7 @@
+Commands:
+
+1 - Kick - Kicks a specific member!
+2 - Ban - Bans a specific member!
+3 - Purge - Deletes a selected amount of messages!
+4 - Ping - Shows the users latency and API latency!
+5 - Say - Makes the bot say a users message!
